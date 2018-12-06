@@ -1,0 +1,9 @@
+div.wordBlanks h1{
+	display: inline;
+	margin: 0px 10px;
+}
+
+.guessedLetters p{
+	display: inline-block;
+	margin: 0px 10px;
+}
